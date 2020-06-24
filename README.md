@@ -41,10 +41,15 @@ npm install mfrc522-rpi
 * Node.js Versions: 0.8, 0.10, 0.12, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 ### Preinstall npm 
+
 `sudo apt install -y nodejs`
+
 `sudo apt install -y npm`
+
 ### Preinstall Modules
+
 `npm install rpio`
+
 `npm install rpi-softspi`
 
 ## Usage
